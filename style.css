@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+}
+body{
+    margin: 0px auto;
+
+}
+.clr{
+    color:  rgb(245, 42, 110);
+}
+.header{
+    margin-left: 10px;
+    float: left;
+    margin-top: 50px;
+    width: 40%;
+    line-height: 35px;
+    font-size: 20px;
+}
+.header h2{
+    margin-top: 100px;
+}
+.header h3{
+    margin-top: 9px;
+    font-size: 30px;
+}
+.header p{
+    color: grey;
+    line-height: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.header img{
+    
+    width: 60%;
+    
+}
+.btn{
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 3px;
+    background-image: linear-gradient(90deg,rgb(245, 42, 110), rgb(173, 14, 67));
+}
