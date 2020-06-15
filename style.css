@@ -1,9 +1,9 @@
 @media only screen and (max-width: 600px) {
    .message{
        
-       padding: 20px 80px;
+       padding: 20px 80px; 
      
-     
+
    }
    .headertxt{
     width: 587px;
@@ -68,7 +68,7 @@ section{
 
 .header img{
     
-    width: 50%;
+    width: 47%;
     
 }
 .bio h2{
@@ -97,13 +97,19 @@ section{
 
 .last-part{
    
+    
+    background-color: rgb(241, 238, 241);
+    
+}
+.latest-work{
     margin-top: 40px;
     margin-left: 10%;  
     height: 350px; 
-    
+
 }
+
 .latest-work h2{
-    
+    text-align: center;
     margin-bottom: 30px;
 }
 .latest-work img{
@@ -136,6 +142,7 @@ section{
     background-image: linear-gradient(90deg,rgb(245, 42, 110), rgb(173, 14, 67));
     border-radius: 5px;
     width: 35%;
+    
     padding-bottom: 30px;
     text-align: center;
     margin-top: 30px;
@@ -147,4 +154,5 @@ section{
 footer p{
     text-align: center;
     margin-bottom: 10px;
+    height: 20px;
 }
